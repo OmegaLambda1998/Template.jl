@@ -9,6 +9,7 @@ OLUtils = "c0b1955d-4702-4680-a946-720482e78a48"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
 [compat]
+ArgParse = "1"
 julia = "1"
 
 [extras]
